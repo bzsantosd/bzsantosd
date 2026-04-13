@@ -1,5 +1,7 @@
 <h2 align="left">Oii, Eu sou a Beatriz 💻</h2>
 
+[![](https://shields.io)](www.linkedin.com/in/beatriz-dos-santos-50238036a)
+
 ###
 
 <p align="left">Seja Bem-vindo(a) ao meu perfil!<br><br>Este é o portfólio dos meus sites, projetos e atividade das aulas. 🌐</p>
@@ -30,6 +32,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
 </div>
 
 ###
